@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="0" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" SerialNo="0" IP="" TargetDevice="unspecified" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ElfFile Name="D:\keil工程\STM32\新的\F4模板1.4\Project\Objects\project.axf" />
+            <DataFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="10000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="TESET" Address="0x20000014" Type="uint" Size="4" IsSigned="0" ShowAsHex="0" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" ShowInGraph="1" YOffset="200" IsAutoConfig="0" YResolution="5" MaxValue="29150000" File="" Scope="1" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>
